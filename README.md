@@ -1,1 +1,1 @@
-# Burger-menu with jQuery
+# Burger menu with jQuery
