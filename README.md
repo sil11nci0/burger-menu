@@ -1,1 +1,1 @@
-# Create burger-menu with using jQuery libraries
+# Burger-menu with jQuery
